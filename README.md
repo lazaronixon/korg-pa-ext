@@ -4,7 +4,7 @@
 Korg PA Extension is an open source pack of samples made for keyboards Korg PA Series. The objective is bring extra sounds with quality, flexibility, optimization and using the maximum resources already present on the keyboard. This project doesn't have any relation with Korg company.
 
 ## How to use ?
-Click on the green button up here and Download ZIP.
+Click [here](https://github.com/lazaronixon/korg-pa-ext/archive/refs/heads/main.zip) to download.
 
 ## Available Sounds (7)
 
